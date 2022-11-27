@@ -51,7 +51,7 @@
     padding-right: 40px;
 }
 #editor{
-   font-family: one; /* font-family: myFirstFont; */
+    font-family: myFirstFont; /* font-family: myFirstFont; */
     text-align: left;
     padding: 0px;
     margin-left: 18px;
