@@ -1,6 +1,6 @@
 const size = document.getElementById('size');
 const editor = document.getElementById('editor');
-editor.value = "ఘ";
+//editor.value = "ఘ";
 var font_size_bool = false;
 var editor_color_bool = false;
 //functions
