@@ -3,7 +3,7 @@ const editor = document.getElementById('editor');
 editor.value = "ఘ";
 var font_size_bool = false;
 var editor_color_bool = false;
-
+//functions
 function size_ok() {
     let size = document.getElementById('size_input').value;
     editor.style.fontSize = size+"px";    
